@@ -344,7 +344,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  blacklight (~> 7.0)
+  blacklight (= 7.4.1)
   bootsnap (>= 1.1.0)
   bootstrap (~> 4.0)
   byebug
