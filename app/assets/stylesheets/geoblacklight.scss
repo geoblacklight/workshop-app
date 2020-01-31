@@ -2,3 +2,13 @@
 *= require geoblacklight/application
 *= require leaflet-label
 */
+
+/**
+ Center all of the "Tools" items for tablets and phones
+ */
+@media (max-width: 768px) {
+  .show-tools ul li {
+
+    text-align: center;
+  }
+}
